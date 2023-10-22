@@ -1,6 +1,7 @@
 # ゲーム製作体験会資料
 祇園祭2023で行った、Scratchを使用した「ゲーム製作体験会」の資料公開用リポジトリです。  
-資料製作 : [kokastar](https://github.com/starkoka)
+資料製作 : [kokastar](https://github.com/starkoka)  
+
 ゲーム製作体験会パンフレットは[こちら]()
 
 # 初級編
