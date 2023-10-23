@@ -16,9 +16,9 @@
 
 # 中級編
 [資料](https://github.com/nitkc-proken/game-development-trial/blob/main/intermediate.pdf)  
-[完成作品](https://scratch.mit.edu/projects/911844978/)  
+[完成作品](https://scratch.mit.edu/projects/911885382/)  
 
-ハードルゲームを作成します。  
+ハードルゲームに改良を加えていきます。  
 以下の改良を行う手順を解説します。
  - ワープしないジャンプ
  - スコアの表示
