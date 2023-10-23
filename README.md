@@ -18,11 +18,12 @@
 [資料](https://github.com/nitkc-proken/game-development-trial/blob/main/Intermediate.pdf)  
 [完成作品](https://scratch.mit.edu/projects/911844978/)  
 
-簡易ハードルゲームを作成します。  
+ハードルゲームを作成します。  
 以下の改良を行う手順を解説します。
- - スペースキーでネコがジャンプする
- - ハードルが右から左に流れる
- - ハードルに触れるとゲーム終了
+ - ワープしないジャンプ
+ - スコアの表示
+ - ネコに動きを持たせる
+
 
 # 上級編
 [資料](https://github.com/nitkc-proken/game-development-trial/blob/main/advanced.pdf)  
