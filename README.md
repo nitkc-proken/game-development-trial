@@ -2,7 +2,8 @@
 祇園祭2023で行った、Scratchを使用した「ゲーム製作体験会」の資料公開用リポジトリです。  
 資料製作 : [kokastar](https://github.com/starkoka)  
 
-ゲーム製作体験会パンフレットは[こちら](https://github.com/nitkc-proken/game-development-trial/blob/main/pamphlet.pdf)
+ゲーム製作体験会パンフレットは[こちら](https://github.com/nitkc-proken/game-development-trial/blob/main/pamphlet.pdf)。  
+[テンプレートファイル](https://github.com/nitkc-proken/game-development-trial/blob/main/template.sb3)とその[使い方の資料](https://github.com/nitkc-proken/game-development-trial/blob/main/template.pdf)も用意してあります。
 
 # 初級編
 [資料](https://github.com/nitkc-proken/game-development-trial/blob/main/beginner.pdf)  
